@@ -30,7 +30,7 @@ Opcionais:
 
 ## Setup do projeto
 
-Inicamos clonando o código deste [repositório](https://github.com/jdipolit/LogicApps).
+Inicamos clonando o código deste [repositório](https://github.com/jdipolit/functions-logic-apps).
 
 Este fluxo expõe uma API que quando chamada insere o corpo da requisição em um banco cosmos e depois seleciona os 10 primeiros registros da base.
 
